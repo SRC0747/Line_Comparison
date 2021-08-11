@@ -42,7 +42,7 @@ public class LineComparison {
             System.out.println("Line1 is less than of Line2");
     }
 }
-class Demo
+class Check
 {
     public static void main(String args[])
     {
